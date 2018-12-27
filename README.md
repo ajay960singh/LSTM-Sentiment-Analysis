@@ -11,5 +11,6 @@ A Movie Review Dataset is used, which can be dowloaded from here: http://ai.stan
 * Glove pre-trained word embeddings were used as features, which can be downloaded at https://nlp.stanford.edu/projects/glove/
   <br>
   After downloading the 'glove.6B.zip' file, add 'glove.6B.300d.txt' in the same directory 
+* An LSTM with 60 neurons was used. To reduce overfitting, a dropout layer was added.
 * Test set: Balanced set of 12,500 positive reviews and 12,500 negative reviews
 * Test Set Accuracy: **0.85476**
