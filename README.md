@@ -12,4 +12,4 @@ A Movie Review Dataset is used, which can be dowloaded from here: http://ai.stan
   <br>
   After downloading the 'glove.6B.zip' file, add 'glove.6B.300d.txt' in the same directory 
 * Test set: Balanced set of 12,500 positive reviews and 12,500 negative reviews
-* Test Set Accuracy: 0.85476
+* Test Set Accuracy: **0.85476**
